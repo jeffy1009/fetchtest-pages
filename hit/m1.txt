@@ -1,0 +1,1 @@
+FETCHTEST-M1 target file. Not a real resource.
